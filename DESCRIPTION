@@ -2,7 +2,7 @@ Package: nfbctestpack
 Title: NFBC funktiopaketin testiversio
 Version: 0.0.0.9000
 Authors@R: 
-    person("Eetu", "Kiviniemi", , "eetu.kiviniemi@oulu.fi", role = c("aut", "cre"),
+    person("Eetu", "Kiviniemi", , "eetu.kiviniemi@oulu.fi", role = c("aut", "cre")
 
 Description: Sisältää näytetaulujen käsittelyyn liittyviä funktioita.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
